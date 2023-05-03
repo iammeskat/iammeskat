@@ -1,13 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Meskatul Islam
-======================================================================================================================================
 
-Full-Stack Web Developer
-------------------------
-
-* 🌍  I'm based in Dhaka
-* 🖥️  See my portfolio at [My Portfolio](http://iammeskat.github.io)
-* ✉️  You can contact me at [meskatcse@gmail.com](mailto:meskatcse@gmail.com)
-* 🚀  I'm currently working on [Ostad Pte. Limited](http://ostad.app)
 
 ### Skills
 
@@ -41,13 +32,7 @@ Full-Stack Web Developer
 </p>
 
 
-### Socials
 
-<p align="left"> <a href="https://www.facebook.com/m35k47" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/iammeskat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/meskatul.islam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/meskat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/m35k47" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
+### My GitHub Stats
 
 <a href="http://www.github.com/iammeskat"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=iammeskat&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
